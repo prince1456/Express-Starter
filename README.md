@@ -7,7 +7,7 @@
 
 :rainbow: [Live Demo](https://backend-starter-kit.herokuapp.com/)
 
-This seed repository provides the following features:
+This seed repository provides the following features: this is super good
 
 - ---------- **Essentials** ----------
 - [x] Web application framework with [**Express**](http://expressjs.com/).
